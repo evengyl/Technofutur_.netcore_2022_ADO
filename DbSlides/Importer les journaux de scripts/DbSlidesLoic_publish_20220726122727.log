@@ -1,0 +1,24 @@
+26-07-22 14:27:27	Ce journal contient des informations sur l'importation du script 'DbSlidesLoic.publish.sql' dans le projet 'DbSlides' sur l'ordinateur 'DESKTOP-G2K7TDT' par l'utilisateur 'Evengyl.
+26-07-22 14:27:27	Début de l'importation du fichier : I:\AllCourses\ADO\Technofutur - .net core - 2022\SQL_TO_VS\DbSlidesLoic.publish.sql 
+26-07-22 14:27:27	Nom de fichier I:\AllCourses\ADO\Technofutur - .net core - 2022\SQL_TO_VS\DbSlidesLoic.publish.sql (taille : 14625)
+26-07-22 14:27:27	Analyse du script d'importation
+26-07-22 14:27:27	Nombre total de lots dans le script : 55
+26-07-22 14:27:27	Nombre total d'instructions dans le script : 14
+26-07-22 14:27:27	Le script a été correctement importé dans le projet.
+26-07-22 14:27:27	Analyse des objets de schéma...
+26-07-22 14:27:28	Analyse du projet à la recherche des éléments en double
+26-07-22 14:27:28	L'élément 'Section' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\Tables\Section.sql'.
+26-07-22 14:27:28	L'élément 'Student' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\Tables\Student.sql'.
+26-07-22 14:27:28	L'élément 'V_StudentActive' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\Views\V_StudentActive.sql'.
+26-07-22 14:27:28	L'élément 'FK_Student_Section' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\Tables\Student.sql'.
+26-07-22 14:27:28	L'élément 'CK_Student_YearResult' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\Tables\Student.sql'.
+26-07-22 14:27:28	L'élément 'CK_Student_BirthDate' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\Tables\Student.sql'.
+26-07-22 14:27:28	L'élément 'AddSection' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\StoredProcedures\AddSection.sql'.
+26-07-22 14:27:28	L'élément 'AddStudent' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\StoredProcedures\AddStudent.sql'.
+26-07-22 14:27:28	L'élément 'DeleteStudent' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\StoredProcedures\DeleteStudent.sql'.
+26-07-22 14:27:28	L'élément 'UpdateStudent' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\StoredProcedures\UpdateStudent.sql'.
+26-07-22 14:27:28	L'élément 'TR_OnDeleteStudent' a été fusionné dans le script existant : 'I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\Tables\Student.sql'.
+26-07-22 14:27:28	Fin du traitement des éléments en double
+26-07-22 14:27:28	Dans le script que vous avez fourni à l'opération d'importation, une ou plusieurs instructions n'ont pas été totalement comprises. Elles ont été déplacées vers le fichier ScriptsIgnoredOnImport.sql. Pour plus d'informations, examinez le contenu du fichier.
+26-07-22 14:27:28	Un résumé de l'opération d'importation a été enregistré à l'emplacement suivant : I:\AllCourses\ADO\Technofutur - .net core - 2022\DbSlides\Importer les journaux de scripts\DbSlidesLoic_publish_20220726122727.log.
+26-07-22 14:27:28	Cliquez sur Terminer pour continuer...
